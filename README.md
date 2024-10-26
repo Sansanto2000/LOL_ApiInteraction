@@ -3,5 +3,5 @@ Proyecto con el objetivo de armar un sistema inteligente que prediga resultados 
 
 
 ## Participantes
-- @CeciliaMarfia en contexto de su Práctica Profesional Supervisada ([PPS](https://github.com/CeciliaMarfia/DiplomaturaEsports)).
-- @Sansanto2000.
+- @[CeciliaMarfia](https://github.com/CeciliaMarfia) en contexto de su Práctica Profesional Supervisada ([PPS](https://github.com/CeciliaMarfia/DiplomaturaEsports)).
+- @[Sansanto2000](https://github.com/Sansanto2000).
